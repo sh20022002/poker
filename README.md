@@ -13,7 +13,7 @@ This project is a **Pygame** application that displays a Texas Hold’em table w
 
 Below is a screenshot of the running application showing the background image, placeholders (in white and yellow boxes at the top), UI buttons (Players +, -, Reset), and the deck layout below:
 
-![Texas Hold’em Probability in Action]('Screenshot 2025-03-30 174559.png')
+![Texas Hold’em Probability in Action]('Screenshot174559.png')
 
 1. **Players**: 2 → The current number of players in the game.  
 2. **+ / -**: Increase or decrease the total number of players (2–10).  
